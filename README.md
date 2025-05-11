@@ -27,9 +27,6 @@ OpenWeatherMap API (or whichever API you're using — update this line if needed
 🚀 Getting Started:
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/weather-app.git
 Open index.html in your browser.
 
