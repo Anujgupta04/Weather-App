@@ -1,4 +1,6 @@
 🌦️ Weather App
+
+
 A sleek and functional Weather App built with HTML, CSS, and JavaScript, designed to deliver real-time weather updates for cities around the world. This project leverages weather APIs to fetch current atmospheric conditions and displays them in a user-friendly format.
 
 Whether you're looking to check the temperature, humidity, wind speed, or general weather conditions, this app provides a clean and responsive interface that works seamlessly across devices.
