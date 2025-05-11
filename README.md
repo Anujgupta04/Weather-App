@@ -33,7 +33,13 @@ Open index.html in your browser.
 Enter a city name and get the latest weather info!
 
 📸 Screenshots:
-(Add screenshots here to visually showcase the app UI — optional but highly recommended)
 
-🔗 Live Demo:
-View Live (Add your deployed link here if hosted on GitHub Pages, Netlify, etc.)
+
+
+
+
+![Image](https://github.com/user-attachments/assets/f2ac5501-1a88-4511-b898-1467bdf87b81)
+
+
+![Image](https://github.com/user-attachments/assets/ebd98139-d6a8-464c-8f2e-7304b03553bf)
+
