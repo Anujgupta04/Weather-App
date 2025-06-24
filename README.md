@@ -30,10 +30,11 @@ OpenWeatherMap API (or whichever API you're using — update this line if needed
 Clone the repository:
 
 git clone https://github.com/yourusername/weather-app.git
-Open index.html in your browser.
+
 
 Enter a city name and get the latest weather info!
-
+You can view by clicking on this link 
+👉🏻**(https://anujgupta04.github.io/Weather-App/)**
 📸 Screenshots:
 
 
