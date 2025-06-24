@@ -29,7 +29,7 @@ OpenWeatherMap API (or whichever API you're using — update this line if needed
 🚀 Getting Started:
 Clone the repository:
 
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/Anujgupta04/Weather-App.git
 
 
 Enter a city name and get the latest weather info!
